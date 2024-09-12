@@ -36,7 +36,7 @@ using namespace std;
 	 }
 	 return fact;
  }
- 
+ // Calculate sum of integers //
  int digitSum(int num){
  	int Sum = 0;
  	while(num>0){
